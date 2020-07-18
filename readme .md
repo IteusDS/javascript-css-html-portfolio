@@ -6,5 +6,5 @@ Utilizando tecnologias;
 - Javascript
 - Bootstrap
 
-
-![Dashboard](https://imgur.com/qSUWAnt)
+Exemplo:
+![Dashboard](https://imgur.com/qSUWAnt}
