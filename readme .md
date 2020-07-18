@@ -8,4 +8,4 @@ Utilizando tecnologias;
 
 Exemplo:
 
-![Dashboard](https://i.ibb.co/4MH5Syg/A1.jpg "Dashboard"}
+![Dashboard](https://i.ibb.co/4MH5Syg/A1.jpg "Dashboard")
